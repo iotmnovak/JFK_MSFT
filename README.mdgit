@@ -1,0 +1,1 @@
+"# JFK_MSFT"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/iotmnovak/JFK_MSFT.gitgit push -u origin master
